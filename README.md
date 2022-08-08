@@ -1,4 +1,4 @@
-# TEGNN
+# CauGNN
 
 This repository is the official implementation of [Multivariate Time Series Forecasting with Transfer Entropy Graph](https://ieeexplore.ieee.org/document/9837007). 
 
