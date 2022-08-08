@@ -1,6 +1,6 @@
 # TEGNN
 
-This repository is the official implementation of [Multivariate Time Series Forecasting with Transfer Entropy Graph](https://arxiv.org/abs/2005.01185). 
+This repository is the official implementation of [Multivariate Time Series Forecasting with Transfer Entropy Graph](https://ieeexplore.ieee.org/document/9837007). 
 
 ## Requirements
 - python 3.7.7
